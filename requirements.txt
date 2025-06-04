@@ -5,7 +5,7 @@
 #sphinx-copybutton
 #sphinxcontrib-blockdiag
 #sphinxcontrib-nwdiag
-#sphinxcontrib-serializinghtml
+##sphinxcontrib-serializinghtml
 sphinx==5.3.0
 f5-sphinx-theme==2.6.1
 sphinx-copybutton==0.5.2
