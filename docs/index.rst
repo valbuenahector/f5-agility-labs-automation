@@ -8,8 +8,9 @@ DAY 1
 ------
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contents:
    :glob:
 
-   class3
+   class03/module*/startup*
+   class03/module*/lab* 
