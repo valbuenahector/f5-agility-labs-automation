@@ -12,4 +12,4 @@ DAY 2
    :caption: Contents:
    :glob:
 
-   class9/class9
+   class*/class*
